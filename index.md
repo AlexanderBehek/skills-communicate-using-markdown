@@ -17,4 +17,7 @@ println(große Krise)
 }
 ```
 
+- [ ] Print Function fixen
+- [ ] Zur Rekursion umbauen
+
 Nunquam Retro
